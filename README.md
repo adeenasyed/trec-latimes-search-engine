@@ -10,5 +10,5 @@ This repo contains:
 
 To run these programs:
 1. Run `javac Document.java Result.java HelperFunctions.java` to compile class files.
-2. Run `IndexEngine.java <path_to_latimes.gz> <path_to_output_directory>` to index the LA Times document collection.
-3. Run `InteractiveRetrieval.java <path_to_indexed_document_collection>` to start the program.
+2. Run `java IndexEngine.java <path_to_latimes.gz> <path_to_output_directory>` to index the LA Times document collection.
+3. Run `java InteractiveRetrieval.java <path_to_indexed_document_collection>` to start the program.

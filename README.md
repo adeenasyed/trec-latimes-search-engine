@@ -1,6 +1,6 @@
 # TREC LA Times Search Engine
 
-This project uses the LA Times portion of TREC volumes 4 and 5 as the document collection for information retrieval. You can access it here: https://trec.nist.gov/data/cd45/index.html
+This project uses the LA Times portion of TREC (Text REtrieval Conference) volumes 4 and 5 as the document collection for information retrieval. You can access it here: https://trec.nist.gov/data/cd45/index.html
 
 
 This repo contains:
